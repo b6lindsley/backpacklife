@@ -8,13 +8,13 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 
 **Equipment:**
 
-Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
-Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
-USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
-USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
-Clear Plexiglass
++ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
++ Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
++ USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
++ USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
++ Clear Plexiglass
 
 
 **Wire Diagram**
