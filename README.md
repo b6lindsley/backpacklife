@@ -4,8 +4,12 @@ Origin:
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies.  
 
 
-Current Version Equipment:
-![markIII-wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/Photos/bpl-logo-git.png)
+Current Version (MarkIII)
+
+
+
+ Equipment:
+![markIII-wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
 Pervious Versions:
 Mark I
