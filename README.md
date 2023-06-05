@@ -11,7 +11,7 @@ Standard Backpack
 
 Mark II
 Rack Backpack Frame
-![wire-diagram]([https://github.com/b6lindsley/backpacklife/blob/main/biz-card-backpack-back.jpeg](https://github.com/b6lindsley/backpacklife/blob/main/brad_lindsley_line_con_bag.jpg))
+![wire-diagram]([https://github.com/b6lindsley/backpacklife/blob/main/biz-card-backpack-back.jpeg](https://github.com/b6lindsley/backpacklife/blob/main/brad_lindsley_line_con_bag.jpg)
 
 
 
