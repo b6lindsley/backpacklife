@@ -27,5 +27,9 @@ Rack Backpack Frame
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
 Equipment:
 
+
+![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
+![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
+
 Media:
 https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
