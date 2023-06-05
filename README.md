@@ -18,7 +18,7 @@ Mark II
 Rack Backpack Frame
 
 
-![markII](https://github.com/b6lindsley/backpacklife/blob/main/brad_lindsley_line_con_bag.jpg)
+![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
 
 Media:
 https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
