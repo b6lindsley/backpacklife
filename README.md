@@ -11,12 +11,14 @@ Pervious Versions:
 Mark I
 Standard Backpack
 
-
-
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
+Equiptment:
+SNES CLassic
+DC Screen
+Large Battery Pack
 
 Mark II
 Rack Backpack Frame
-
 
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
 
