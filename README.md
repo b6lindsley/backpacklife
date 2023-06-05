@@ -5,6 +5,8 @@
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies.  
 
 ## Current Version (MarkIII)
+Rack Backpack
+Debut: DEFCON 31
 
 **Equipment:**
 
@@ -26,6 +28,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 
 ### **Mark I**
 Standard Backpack
+Debut: DEFCON 27
 
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
 
@@ -38,7 +41,7 @@ Standard Backpack
 ### **Mark II**
 
 Rack Backpack Frame
-
+Debut: DEFCON 30
 **Equipment:**
 
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
