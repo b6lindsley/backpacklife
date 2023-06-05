@@ -4,7 +4,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 
 
 Current Version Equipment:
-
+![wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/biz-card-backpack-back.jpeg)
 Pervious Versions:
 Mark I
 Standard Backpack
