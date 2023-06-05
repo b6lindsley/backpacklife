@@ -11,7 +11,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 
 ## Pervious Versions:
 
-**Mark I**
+### **Mark I**
 Standard Backpack
 
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
@@ -21,7 +21,7 @@ SNES CLassic
 DC Screen
 Large Battery Pack
 
-**Mark II**
+### **Mark II**
 
 Rack Backpack Frame
 
