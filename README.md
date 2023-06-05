@@ -9,7 +9,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 **Equipment:**
 ![markIII-wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
-### Pervious Versions:
+## Pervious Versions:
 
 **Mark I**
 Standard Backpack
@@ -30,7 +30,7 @@ Rack Backpack Frame
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
 ![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
 
-#### Media:
+## Media:
 
 https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
