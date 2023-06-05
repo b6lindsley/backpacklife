@@ -5,7 +5,9 @@
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies.  
 
 ## Current Version (MarkIII)
+
 Rack Backpack
+
 Debut: DEFCON 31
 
 **Equipment:**
@@ -54,6 +56,7 @@ Debut: DEFCON 30
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Black Plexiglass
++ EL Wire (Green and Orange)
 
 ## Media:
 
