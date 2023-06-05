@@ -28,10 +28,10 @@ Standard Backpack
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
 
 **Equiptment:**
-SNES CLassic
-backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ SNES CLassic
++ backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### **Mark II**
 
@@ -42,13 +42,13 @@ Rack Backpack Frame
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
 ![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
 
-Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
-Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-Black Plexiglass
++ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
++ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Black Plexiglass
 
 ## Media:
 
-https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
++ https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
