@@ -1,5 +1,3 @@
-# backpacklife
-
 ![bpl-logo](https://github.com/b6lindsley/backpacklife/blob/main/bpl-logo-git.png)
 
 Origin:
