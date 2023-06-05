@@ -44,6 +44,7 @@ Debut: DEFCON 27
 
 Rack Backpack Frame
 Debut: DEFCON 30
+
 **Equipment:**
 
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
