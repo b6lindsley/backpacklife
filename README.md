@@ -9,6 +9,8 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 **Equipment:**
 
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Raspberry Pi Version 4
++ USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
 + Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
@@ -42,6 +44,8 @@ Rack Backpack Frame
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
 ![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
 
++ Raspberry Pi Version 4
++ USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
