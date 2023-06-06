@@ -55,10 +55,10 @@ Debut: DEFCON 27
 Rack Backpack Frame
 Debut: DEFCON 30
 
-**Equipment:**
-
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
 ![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
+
+**Equipment:**
 
 + Raspberry Pi Version 4
 + USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
