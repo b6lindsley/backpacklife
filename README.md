@@ -5,6 +5,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 ## Current Versions
 ### Mark4.0
 Style: Rack Backpack
+
 Debut: DEFCON 31
 
 **Games**
@@ -29,6 +30,7 @@ Debut: DEFCON 31
 
 ### Mark4.1
 Style: Rack Backpack
+
 Debut: DEFCON 31
 
 **Games**
@@ -74,6 +76,8 @@ Debut: DEFCON 31
 
 
 **Wire Diagram**
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_Backpack_life_Mark-4.1-beta.jpeg)
+
 ## Pervious Versions:
 
 ### **Mark I**
