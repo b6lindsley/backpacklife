@@ -108,6 +108,7 @@ Debut: DEFCON 27
 
 ### **Mark 2**
 Style: Rack Backpack Frame
+
 Debut: DEFCON 30
 
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
@@ -132,8 +133,6 @@ Debut: DEFCON 30
 Style: Rack Backpack
 
 Debut: Thotcon 0xC
-
-![markI-wire]![markIII-Back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkIII.jpg)
 
 **Games**
 + Mario Kart
