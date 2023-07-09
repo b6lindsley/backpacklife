@@ -125,7 +125,7 @@ Debut: Thotcon 0xC
 + Raspberry Pi Version 4
 + USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
-+ Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1
 + Fan: https://www.amazon.com/gp/product/B08T8TTVHC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
