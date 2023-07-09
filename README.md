@@ -88,7 +88,7 @@ Debut: DEFCON 31
 
 ## Pervious Versions:
 
-### **Mark I**
+### **Mark 1**
 Style: Standard Backpack
 Debut: DEFCON 27
 
@@ -103,7 +103,7 @@ Debut: DEFCON 27
 **Wire Diagram**
 ![markI-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkI-wire-diagram.jpeg)
 
-### **Mark II**
+### **Mark 2**
 Style: Rack Backpack Frame
 Debut: DEFCON 30
 
@@ -125,7 +125,7 @@ Debut: DEFCON 30
 **Wire Diagram**
 ![markII-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark-2-wiring.jpeg)
 
-### **Mark III**
+### **Mark 3**
 Style: Rack Backpack
 Debut: Thotcon 0xC
 
@@ -150,7 +150,7 @@ Debut: Thotcon 0xC
 + Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
   
 **Wire Diagram**
-![markIII-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark3-wiring.jpeg)
+![markIII-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark3-wiring%20(1).jpeg)
 
 ## Media:
 + https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
