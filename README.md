@@ -1,25 +1,19 @@
 ![bpl-logo](https://github.com/b6lindsley/backpacklife/blob/main/Photos/bpl-logo-git.png)
-
 # Origin:
-
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies. This inspired the idea for making a bag for others to enjoy while waiting in line. 
 
-# Tools/software required
-+ Eicher
+# Setup Software required
++ Eicher SD card Imaging Software
 + SD Card adapter and 64GB SD card
-+ retropi
 
-
-## Current Version (MarkIV)
-
-Rack Backpack
+## Current Versions
+## (Mark4.0)
+Style: Rack Backpack
 Debut: DEFCON 31
 
 **Games**
 + Mario Kart
 + GoldenEYE
-+ Tony Hawk Pro Skater
-+ Twisted Metal
 + Super Smash Brothers
 
 **Equipment:**
@@ -33,16 +27,39 @@ Debut: DEFCON 31
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
-+ Clear Plexiglass
++ Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 
 **Wire Diagram**
 ![markIII-wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
+## (Mark4.1)
+Style: Rack Backpack
+Debut: DEFCON 31
+
+**Games**
++ Tony Hawk Pro Skater
++ Twisted Metal
+
+**Equipment:**
+
++ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Raspberry Pi Version 4
++ USB PlayStation controlers: https://www.amazon.com/gp/product/B01G5IULMW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
++ Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Fans (x2): https://www.amazon.com/gp/product/B00G059G86/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
++ USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
++ USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
++ Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
+**Wire Diagram**
 ## Pervious Versions:
 
 ### **Mark I**
-Standard Backpack
+Style: Standard Backpack
 Debut: DEFCON 27
 
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
@@ -54,7 +71,7 @@ Debut: DEFCON 27
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### **Mark II**
-Rack Backpack Frame
+Style: Rack Backpack Frame
 Debut: DEFCON 30
 
 ![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
@@ -68,13 +85,13 @@ Debut: DEFCON 30
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Black Plexiglass
-+ EL Wire (Green and Orange)
++ Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ EL Wire Orange: https://www.amazon.com/gp/product/B077B36DCZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ EL wire Green: https://www.amazon.com/gp/product/B095BX333M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### **Mark III**
-Rack Backpack
-
-Debut: DEFCON 30
+Style: Rack Backpack
+Debut: Thotcon 0xC
 
 **Games**
 + Mario Kart
@@ -87,11 +104,10 @@ Debut: DEFCON 30
 + USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
 + Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Fan: 
++ Fan: https://www.amazon.com/gp/product/B08T8TTVHC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
-+ USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
-+ Clear Plexiglass
++ Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 
 **Wire Diagram**
