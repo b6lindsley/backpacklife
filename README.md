@@ -1,5 +1,6 @@
 ![bpl-logo](https://github.com/b6lindsley/backpacklife/blob/main/Photos/bpl-logo-git.png)
 # Origin:
+
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies. This inspired the idea for making a bag for others to enjoy while waiting in line. 
 
 ## Current Versions
@@ -59,6 +60,7 @@ Debut: DEFCON 31
 ![mark4.2](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_backpack_life_mark-4.2.jpeg)
 ### Beta Mark4.0.1
 Style: Rack Backpack
+
 Debut: DEFCON 31
 
 **Games**
@@ -90,6 +92,7 @@ Debut: DEFCON 31
 
 ### **Mark 1**
 Style: Standard Backpack
+
 Debut: DEFCON 27
 
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
@@ -127,6 +130,7 @@ Debut: DEFCON 30
 
 ### **Mark 3**
 Style: Rack Backpack
+
 Debut: Thotcon 0xC
 
 ![markI-wire]![markIII-Back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkIII.jpg)
