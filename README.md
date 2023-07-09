@@ -26,7 +26,7 @@ Debut: DEFCON 31
 + Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
-![markIII-wire-diagram](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
+![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
 ### Mark4.1
 Style: Rack Backpack
@@ -50,7 +50,7 @@ Debut: DEFCON 31
 + Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
-
+![mark4.2](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_backpack_life_mark-4.2.jpeg)
 ### Beta Mark4.0.1
 Style: Rack Backpack
 Debut: DEFCON 31
@@ -114,6 +114,8 @@ Debut: DEFCON 30
 Style: Rack Backpack
 Debut: Thotcon 0xC
 
+![markIII-Back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkIII.jpg)
+
 **Games**
 + Mario Kart
 + GoldenEYE
@@ -130,6 +132,7 @@ Debut: Thotcon 0xC
 + Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
+
 ## Media:
 + https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
