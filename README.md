@@ -122,6 +122,9 @@ Debut: DEFCON 30
 + EL wire Green: https://www.amazon.com/gp/product/B095BX333M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+**Wire Diagram**
+![markII-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark-2-wiring.jpeg)
+
 ### **Mark III**
 Style: Rack Backpack
 Debut: Thotcon 0xC
