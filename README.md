@@ -84,7 +84,7 @@ Debut: DEFCON 31
 + Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
-![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_Backpack_life_Mark-4.1-beta.jpeg)
+![mark4-0-1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_Backpack_life_Mark-4.1-beta.jpeg)
 
 ## Pervious Versions:
 
@@ -99,6 +99,9 @@ Debut: DEFCON 27
 + backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+**Wire Diagram**
+![markI-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkI-wire-diagram.jpeg)
 
 ### **Mark II**
 Style: Rack Backpack Frame
@@ -123,7 +126,7 @@ Debut: DEFCON 30
 Style: Rack Backpack
 Debut: Thotcon 0xC
 
-![markIII-Back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkIII.jpg)
+![markI-wire]![markIII-Back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkIII.jpg)
 
 **Games**
 + Mario Kart
