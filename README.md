@@ -24,6 +24,9 @@ Debut: DEFCON 31
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 + Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Green LED Banner: https://www.amazon.com/gp/product/B09J3PQYMJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
 ![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
@@ -48,6 +51,9 @@ Debut: DEFCON 31
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 + Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Green LED Banner: https://www.amazon.com/gp/product/B09J3PQYMJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
 ![mark4.2](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_backpack_life_mark-4.2.jpeg)
@@ -73,7 +79,9 @@ Debut: DEFCON 31
 + Clear Plexiglass: https://www.amazon.com/gp/product/B097LMD612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + HDMI Duplicator: https://www.amazon.com/gp/product/B005HXFARS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Heads up Display: https://www.amazon.com/gp/product/B01MZ89QXF/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
-
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Green LED Banner: https://www.amazon.com/gp/product/B09J3PQYMJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
 ![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_Backpack_life_Mark-4.1-beta.jpeg)
@@ -109,6 +117,7 @@ Debut: DEFCON 30
 + Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + EL Wire Orange: https://www.amazon.com/gp/product/B077B36DCZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + EL wire Green: https://www.amazon.com/gp/product/B095BX333M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### **Mark III**
 Style: Rack Backpack
@@ -130,7 +139,10 @@ Debut: Thotcon 0xC
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Green LED Banner: https://www.amazon.com/gp/product/B09J3PQYMJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+  
 **Wire Diagram**
 
 ## Media:
