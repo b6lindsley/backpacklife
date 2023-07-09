@@ -4,7 +4,7 @@
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies. This inspired the idea for making a bag for others to enjoy while waiting in line. 
 
 ## Current Versions
-### Mark4.0
+### Mark4.0 (Nintedo Version)
 Style: Rack Backpack
 
 Debut: DEFCON 31
@@ -32,7 +32,7 @@ Debut: DEFCON 31
 **Wire Diagram**
 ![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
-### Mark4.1
+### Mark4.1 (Playstation Version)
 Style: Rack Backpack
 
 Debut: DEFCON 31
@@ -58,10 +58,12 @@ Debut: DEFCON 31
 
 **Wire Diagram**
 ![mark4.2](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_backpack_life_mark-4.2.jpeg)
+
 ### Beta Mark4.0.1
 Style: Rack Backpack
 
 Debut: DEFCON 31
+#Testing a "Heads Up" Glasses mounted video screen
 
 **Games**
 + Mario Kart
