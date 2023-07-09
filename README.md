@@ -2,10 +2,6 @@
 # Origin:
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "what would I like to do during linecon". Answer: Play video games or watch movies. This inspired the idea for making a bag for others to enjoy while waiting in line. 
 
-# Setup Software required
-+ Eicher SD card Imaging Software
-+ SD Card adapter and 64GB SD card
-
 ## Current Versions
 ## (Mark4.0)
 Style: Rack Backpack
