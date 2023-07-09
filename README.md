@@ -10,15 +10,17 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking "w
 + retropi
 
 
-## Current Version (MarkIII)
+## Current Version (MarkIV)
 
 Rack Backpack
-
 Debut: DEFCON 31
 
 **Games**
 + Mario Kart
 + GoldenEYE
++ Tony Hawk Pro Skater
++ Twisted Metal
++ Super Smash Brothers
 
 **Equipment:**
 
@@ -27,6 +29,7 @@ Debut: DEFCON 31
 + USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
 + Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Fans (x2): https://www.amazon.com/gp/product/B00G059G86/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
@@ -51,7 +54,6 @@ Debut: DEFCON 27
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### **Mark II**
-
 Rack Backpack Frame
 Debut: DEFCON 30
 
@@ -69,6 +71,30 @@ Debut: DEFCON 30
 + Black Plexiglass
 + EL Wire (Green and Orange)
 
+### **Mark III**
+Rack Backpack
+
+Debut: DEFCON 30
+
+**Games**
++ Mario Kart
++ GoldenEYE
+
+**Equipment:**
+
++ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Raspberry Pi Version 4
++ USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
++ Battery (4 total): https://www.amazon.com/gp/product/B07JZCBXMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Fan: 
++ USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
++ USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
++ USB RGB lights: https://www.amazon.com/gp/product/B077XZQYB1/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
++ Clear Plexiglass
+
+
+**Wire Diagram**
 ## Media:
 
 + https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
