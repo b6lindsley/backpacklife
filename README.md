@@ -66,6 +66,9 @@ Debut: DEFCON 31
 Style: Rack Backpack
 
 Debut: DEFCON 31
+
+![mark4.0.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1631.jpg)
+
 #Testing a "Heads Up" Glasses mounted video screen
 
 **Games**
