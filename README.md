@@ -30,13 +30,14 @@ Debut: DEFCON 31
 + Red LED Banner: https://www.amazon.com/gp/product/B07R7SY2S9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 **Wire Diagram**
-![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
+![mark4.0](https://github.com/b6lindsley/backpacklife/blob/main/Photos/BACKPACKLIFE%20(1).jpeg)
 
 ### Mark4.1 (Playstation Version)
 Style: Rack Backpack
 
 Debut: DEFCON 31
 
+![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1630.jpg)
 **Games**
 + Tony Hawk Pro Skater
 + Twisted Metal
