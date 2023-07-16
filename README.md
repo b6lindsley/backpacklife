@@ -14,7 +14,6 @@ Debut: DEFCON 31
 **Games**
 + Mario Kart
 + GoldenEYE
-+ Super Smash Brothers
 
 **Equipment:**
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
@@ -42,7 +41,6 @@ Debut: DEFCON 31
 ![mark4.1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1630.jpg)
 **Games**
 + Tony Hawk Pro Skater
-+ Twisted Metal
 
 **Equipment:**
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
@@ -74,7 +72,7 @@ Debut: DEFCON 31
 **Games**
 + Mario Kart
 + GoldenEYE
-+ Super Smash Brothers
+
 
 **Equipment:**
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
