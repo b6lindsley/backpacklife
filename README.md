@@ -71,8 +71,6 @@ Debut: DEFCON 31
 
 **Games**
 + Mario Kart
-+ GoldenEYE
-
 
 **Equipment:**
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
