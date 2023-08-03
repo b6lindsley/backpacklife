@@ -117,14 +117,15 @@ Debut: DEFCON 27
 
 Media Content: Hackers
 
-![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark1.1-wire-diagram.jpeg)
-
 **Equiptment:**
 + Media Player: https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+**Wire Diagram**
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark1.1-wire-diagram.jpeg)
 
 ### **Mark 2**
 Style: Rack Backpack Frame
