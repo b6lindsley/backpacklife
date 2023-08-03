@@ -117,7 +117,7 @@ Debut: DEFCON 27
 
 Media Content: Hackers
 
-![markI](https://github.com/backpacklife1/backpacklife/blob/main/Photos/markI.jpg)
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark1.1-wire-diagram.jpeg)
 
 **Equiptment:**
 + Media Player: https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
