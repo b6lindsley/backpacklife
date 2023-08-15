@@ -179,3 +179,5 @@ Debut: Thotcon 0xC
 ## Media:
 + https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
 ![markII](https://github.com/b6lindsley/backpacklife/blob/main/Photos/brad_lindsley_line_con_bag.jpg)
+
++ https://www.politico.com/news/2023/08/12/u-s-officials-def-con-hacking-conference-00110946
