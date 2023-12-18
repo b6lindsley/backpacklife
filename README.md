@@ -7,11 +7,11 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 
 ### Mark5 (Coming to Defcon 32 soon!)
 
-Mark 5.0.#FF0000
+Mark 5.0.FF0000
 
 Red Team!
 
-Mark 5.0.#0000ff
+Mark 5.0.0000ff
 
 Blue Team!
 
