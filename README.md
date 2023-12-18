@@ -6,6 +6,11 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 ## Current Versions:
 
 ### Mark5 (Coming soon!)
+Mark 5.0.#FF0000
+Red Team!
+
+Mark 5.0.#0000ff
+Blue Team!
 
 ### Mark4.0 (Nintedo Version)
 Style: Rack Backpack
