@@ -6,14 +6,30 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 ## Current Versions:
 
 ### Mark5 (Coming to Defcon 32 soon!)
+**Games**
+ +No Spoliers!
 
+ 
 Mark 5.0.FF0000
 
 Red Team!
+Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
+Fans (x2): https://www.amazon.com/gp/product/B00G059G86/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
 
 Mark 5.0.0000ff
 
 Blue Team!
+Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
+Fans (x2): https://www.amazon.com/gp/product/B00G059G86/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### Mark4.0 (Nintedo Version)
 Style: Rack Backpack
