@@ -7,6 +7,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 
 ### Mark5 (Coming to Defcon 32 soon!)
 **Games**
+
  No Spoliers!
  
 Mark 5.0.FF0000
