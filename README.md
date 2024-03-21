@@ -10,7 +10,7 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 **Games**
 Halo
 
-Red Team!
+Red Team:
 
 ![mark5redfront](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteam-front.jpg)
   
@@ -27,7 +27,11 @@ Components:
 
 Mark 5.0.0000ff
 
-Blue Team!
+Blue Team:
+
+![blueteam](https://github.com/b6lindsley/backpacklife/blob/main/Photos/blue-team-front.jpg)
+
+![blueteamback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/blueteam-back.jpg)
 
 Components:
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
