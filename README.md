@@ -13,7 +13,7 @@ Halo
 Mark 5.0.FF0000
 
 Red Team!
-![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg)
+![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg width="150" height="280")
 
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
@@ -50,7 +50,7 @@ Style: Rack Backpack
 
 Debut: DEFCON 31
 
-![mark4.0](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1628.jpg =250x250)
+![mark4.0](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1628.jpg width="150" height="280")
 
 **Games**
 + Mario Kart
