@@ -14,7 +14,7 @@ Mark 5.0.FF0000
 
 Red Team!
   ![mark5redfront](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteam-front.jpg)
-  ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg)
+  ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback-1.jpg)
 
 Components: 
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
