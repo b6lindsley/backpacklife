@@ -13,10 +13,8 @@ Halo
 Mark 5.0.FF0000
 
 Red Team!
-<div style="width: 25px; height: 30px">
-  ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg)
-</div>
 
+  ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg)
 
 + Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 + Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
