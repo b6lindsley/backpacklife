@@ -36,6 +36,7 @@ Blue Team!
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 Mark5.0.gr3mlin
+![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/gr3mlin-bag-front.jpg)
 
 **Games**
 + Mario Kart
