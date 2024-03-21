@@ -50,7 +50,7 @@ Style: Rack Backpack
 
 Debut: DEFCON 31
 
-![mark4.0](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1628.jpg)
+![mark4.0](https://github.com/b6lindsley/backpacklife/blob/main/Photos/IMG-1628.jpg =250x250)
 
 **Games**
 + Mario Kart
