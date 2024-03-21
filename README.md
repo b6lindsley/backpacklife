@@ -13,10 +13,8 @@ Halo
 Mark 5.0.FF0000
 
 Red Team!
-<div style="width: 25%; height: 30%">
-  
+<div style="width: 25; height: 30">
   ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteamback.jpg)
-  
 </div>
 
 
