@@ -144,63 +144,6 @@ Debut: DEFCON 31
 **Wire Diagram**
 ![mark4-0-1](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Defcon_Backpack_life_Mark-4.1-beta.jpeg)
 
-
-### **Mark 1**
-Style: Standard Backpack
-
-Debut: DEFCON 27
-
-![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
-
-**Equiptment:**
-+ SNES CLassic
-+ backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-
-**Wire Diagram**
-![markI-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkI-wire-diagram.jpeg)
-
-### **Mark 1.1**
-Style: Standard Backpack
-
-Debut: DEFCON 27
-
-Media Content: Hackers
-
-**Equiptment:**
-+ Media Player: https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-
-**Wire Diagram**
-![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark1.1-wire-diagram.jpeg)
-
-### **Mark 2**
-Style: Rack Backpack Frame
-
-Debut: DEFCON 30
-
-![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
-![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
-
-**Equipment:**
-+ Raspberry Pi Version 4
-+ USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
-+ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ EL Wire Orange: https://www.amazon.com/gp/product/B077B36DCZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ EL wire Green: https://www.amazon.com/gp/product/B095BX333M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-+ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-
-**Wire Diagram**
-![markII-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark-2-wiring.jpeg)
-
 ### **Mark 3**
 Style: Rack Backpack
 
@@ -226,6 +169,62 @@ Debut: Thotcon 0xC
   
 **Wire Diagram**
 ![markIII-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark3-wiring%20(1).jpeg)
+
+### **Mark 2**
+Style: Rack Backpack Frame
+
+Debut: DEFCON 30
+
+![markII-front](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkII-Front.jpg)
+![markII-back](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markII-back.jpg)
+
+**Equipment:**
++ Raspberry Pi Version 4
++ USB N64 controlers: https://www.amazon.com/gp/product/B08GLNQBW4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Monitor: https://www.amazon.com/gp/product/B08GYD728Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Rack Backpack: https://www.amazon.com/gp/product/B001RL5PHY/ref=ox_sc_saved_title_3?smid=ATVPDKIKX0DER&psc=1
++ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ SFX Battery: https://www.amazon.com/gp/product/B07K9HJR4X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Black Plexiglass: https://www.amazon.com/gp/product/B08R9TG4H1/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ EL Wire Orange: https://www.amazon.com/gp/product/B077B36DCZ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ EL wire Green: https://www.amazon.com/gp/product/B095BX333M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+**Wire Diagram**
+![markII-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark-2-wiring.jpeg)
+
+### **Mark 1.1**
+Style: Standard Backpack
+
+Debut: DEFCON 27
+
+Media Content: Hackers
+
+**Equiptment:**
++ Media Player: https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+https://www.amazon.com/gp/product/B00MVRC9AO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+**Wire Diagram**
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark1.1-wire-diagram.jpeg)
+
+### **Mark 1**
+Style: Standard Backpack
+
+Debut: DEFCON 27
+
+![markI](https://github.com/b6lindsley/backpacklife/blob/main/Photos/markI.jpg)
+
+**Equiptment:**
++ SNES CLassic
++ backpack: https://www.amazon.com/gp/product/B075VJZWNH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ 7" Portable Screen: https://www.amazon.com/gp/product/B01I1N8ZQ8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
++ Main Battery: https://www.amazon.com/gp/product/B08NF2NVV5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+**Wire Diagram**
+![markI-wire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/MarkI-wire-diagram.jpeg)
 
 ## Media:
 + https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community
