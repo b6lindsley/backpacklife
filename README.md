@@ -25,6 +25,9 @@ Components:
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+**Wire Diagram**
+
+![redteam-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_RT_1.0.jpeg)
 
 Mark 5.0.0000ff
 
@@ -42,6 +45,10 @@ Components:
 + USB Splitter: https://www.amazon.com/gp/product/B07VLJDQ15/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+  
+**Wire Diagram** 
+
+![blueteamwire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_BT_1.0.jpeg)
 
 Mark5.0.gr3mlin:
 
