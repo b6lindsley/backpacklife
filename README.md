@@ -68,7 +68,24 @@ Components:
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-## Pervious Versions:
+### Sidekick
+
+## SNES classic (The OG backpacklife)
+
+
+Components:
++ USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
+## Playstation Version
+
+Components:
+
++ Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
+### Pervious Versions:
 
 ### Mark4.0 (Nintedo Version)
 Style: Rack Backpack
