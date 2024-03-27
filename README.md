@@ -5,13 +5,11 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 
 ### Current Versions:
 
-## Mark 5.0.FF0000
+## Mark 5.0.FF0000 - Red Team
 
 **Games**
 
-Halo
-
-Red Team:
++Halo
 
 ![mark5redfront](https://github.com/b6lindsley/backpacklife/blob/main/Photos/mark5-redteam-front.jpg)
   
@@ -30,9 +28,7 @@ Components:
 
 ![redteam-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_RT_1.0.jpeg)
 
-## Mark 5.0.0000ff
-
-Blue Team:
+## Mark 5.0.0000ff - Blue Team
 
 ![blueteam](https://github.com/b6lindsley/backpacklife/blob/main/Photos/blue-team-front.jpg)
 
@@ -83,7 +79,6 @@ Components:
 ### Playstation Version
 
 Components:
-
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ## Pervious Versions:
