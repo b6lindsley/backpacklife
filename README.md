@@ -3,7 +3,7 @@
 
 DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "What would I like to do during linecon?". Answer: Play video games or watch movies. This inspired the idea for making a bag for others to enjoy while waiting in line. 
 
-## Current Versions:
+### Current Versions:
 
 ## Mark 5.0.FF0000
 
@@ -30,9 +30,9 @@ Components:
 
 ![redteam-wiring](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_RT_1.0.jpeg)
 
-Mark 5.0.0000ff
+## Mark 5.0.0000ff
 
-###Blue Team:
+Blue Team:
 
 ![blueteam](https://github.com/b6lindsley/backpacklife/blob/main/Photos/blue-team-front.jpg)
 
@@ -51,7 +51,7 @@ Components:
 
 ![blueteamwire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_BT_1.0.jpeg)
 
-###Mark5.0.gr3mlin:
+## Mark5.0.gr3mlin:
 
 ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/gr3mlin-bag-front.jpg)
 
