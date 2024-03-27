@@ -5,9 +5,10 @@ DEFCON is fun, waiting in line isn't. The idea behind backpacklife was asking: "
 
 ## Current Versions:
 
-### Mark 5.0.FF0000
+## Mark 5.0.FF0000
 
 **Games**
+
 Halo
 
 Red Team:
@@ -31,7 +32,7 @@ Components:
 
 Mark 5.0.0000ff
 
-Blue Team:
+###Blue Team:
 
 ![blueteam](https://github.com/b6lindsley/backpacklife/blob/main/Photos/blue-team-front.jpg)
 
@@ -50,11 +51,12 @@ Components:
 
 ![blueteamwire](https://github.com/b6lindsley/backpacklife/blob/main/Photos/Mark_5_BT_1.0.jpeg)
 
-Mark5.0.gr3mlin:
+###Mark5.0.gr3mlin:
 
 ![mark5redback](https://github.com/b6lindsley/backpacklife/blob/main/Photos/gr3mlin-bag-front.jpg)
 
 **Games**
+
 + Mario Kart
 + GoldenEYE
 + Super Smash Borthers
@@ -68,9 +70,9 @@ Components:
 + USB Hub (two total): https://www.amazon.com/gp/product/B00JX1ZS5O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-### Sidekick
+## Sidekicks
 
-## SNES classic (The OG backpacklife)
+### SNES classic (The OG backpacklife)
 
 
 Components:
@@ -78,14 +80,13 @@ Components:
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 
-## Playstation Version
+### Playstation Version
 
 Components:
 
 + Velcro: https://www.amazon.com/gp/product/B00JJPPYF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-
-### Pervious Versions:
+## Pervious Versions:
 
 ### Mark4.0 (Nintedo Version)
 Style: Rack Backpack
